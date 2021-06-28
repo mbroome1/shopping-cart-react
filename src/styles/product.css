@@ -1,0 +1,19 @@
+.product {
+    display: inline-block;
+    border: 1px solid #dadada;
+    padding: 1.3rem;
+    margin: 0.6rem;
+} 
+
+/* Product List */
+.product-list {
+    margin-top: 2.2rem;
+}
+
+.select-group {
+    margin: 1.2rem 0;
+}
+
+img {
+    height: 115px;
+}

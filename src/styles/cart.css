@@ -1,0 +1,28 @@
+.cart-count {
+    font-size: 2rem;
+}
+.cart-stock {
+    font-weight: bold;
+}
+
+.cart-description {
+    color:rgb(204, 49, 49);
+}
+
+.cart-size {
+    font-size: 2.3rem;
+}
+
+.cart-price {
+    font-size: 1.8rem;
+}
+
+.cart-qty {
+    font-size: 2.5rem;
+    color: teal;
+    font-weight: 500;
+}
+
+.line {
+    border-bottom: 1px solid teal;
+}
